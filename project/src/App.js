@@ -5,7 +5,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        `Error!!`
+        <div class="left">
+          <h2>Welcome!</h2>
+        </div>
+        <div class="right">
+          <h3>Home</h3>
+          <h3>About</h3>
+          <h3>return</h3>
+          <h3>Logout</h3>
+        </div>
       </header>
     </div>
   );
